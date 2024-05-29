@@ -53,7 +53,7 @@ Most of my personal projects are in Python.
   
 ### Swarm Algorithms
 - **NinjaBees**
-  - Simulation of a bee colony, where the Bee try to discover all food sources in the simulated world.
+  - Simulation of a bee colony, where the bees try to discover all food sources in the simulated world.
     The Bee Colony Optimization algorithm is used as core algorithm.
   - Repository: [NinjaBees](https://github.com/HokageM/NinjaBees)
   
