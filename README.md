@@ -31,6 +31,13 @@ Most of my personal projects are in Python.
   
     <img src="https://raw.githubusercontent.com/HokageM/ByakuganVisualizer/main/logo/logo.jpeg" alt="Byakugan Visualizer Logo" width="200" height="200">
 
+- **DamagedLoggingAnalyzer**
+  - This is my individual project for the module Research Software Engineering in SS24. The task was to analyze a dataset 
+  from [genesis.destatis](https://www-genesis.destatis.de/genesis/online?operation=abruftabelleBearbeiten&levelindex=1&levelid=1713202276894&auswahloperation=abruftabelleAuspraegungAuswaehlen&auswahlverzeichnis=ordnungsstruktur&auswahlziel=werteabruf&code=41261-0003&auswahltext=&werteabruf=starten) using Python and to find interesting aspects and potential questions that could be explored using this data.
+  - Repository: [DamagedLoggingAnalyzer](https://github.com/HokageM/DamagedLoggingAnalyzer)
+      
+    <img src="https://raw.githubusercontent.com/HokageM/DamagedLoggingAnalyzer/main/logo/logo.jpeg" alt="Damaged Logging Analyzer Logo" width="200" height="200">
+  
 - **Video2ASCII**
   - This tool is created to convert MP4 videos into ASCII animations.
   - Repository: [Video2ASCII](https://github.com/HokageM/Video2ASCII)
@@ -46,7 +53,7 @@ Most of my personal projects are in Python.
   
 ### Swarm Algorithms
 - **NinjaBees**
-  - Simulation of a bee colony, where the bees try to discover all food sources in the simulated world.
+  - Simulation of a bee colony, where the Bee try to discover all food sources in the simulated world.
     The Bee Colony Optimization algorithm is used as core algorithm.
   - Repository: [NinjaBees](https://github.com/HokageM/NinjaBees)
   
