@@ -5,16 +5,15 @@ Hey there! I'm Mike Trzaska (HokageM), a passionate learner and explorer in the 
 I earned my Bachelor of Science degree at the Technical University of Hamburg Harburg in Computer Science and Electrical
 Engineering. Currently, I am pursuing my Master's degree in Bioinformatics at the University of Hamburg.
 
-Since October 2020, I've been working as a Working Student (Software Engineer) at Eppendorf Liquid Handling GmbH. 
-During my time at Eppendorf, I had the opportunity to work on various projects and technologies, primarily focusing on 
-C++ and Python. Additionally, I completed my Bachelor Thesis at Eppendorf, where I developed a tool for GUI testing for 
-embedded systems.
+Since October 2020, I have been working as a Working Student (Software Engineer) at Eppendorf Liquid Handling GmbH. 
+In parallel, since April 2025, I have also been working on my Master's thesis at Eppendorf SE.
+During my time at Eppendorf, I have had the opportunity to contribute to various projects, 
+primarily focusing on firmware development in C++ and tool development in Python. 
+I also completed my Bachelor's thesis at Eppendorf, where I developed a GUI testing tool for embedded systems.
 
-I deeply enjoy working on diverse projects that challenge me and help me grow as a developer. 
-Most of my personal projects are in Python.
+I deeply enjoy working on diverse projects that challenge me and help me grow as a developer.
 
-
-## Portfolio
+## Projects Portfolio
 
 ### Bioinformatics Projects
 - **CoAler**
@@ -50,7 +49,13 @@ Most of my personal projects are in Python.
   - Repository: [IRLwPython](https://github.com/HokageM/IRLwPython)
     
     <img src="https://raw.githubusercontent.com/HokageM/IRLwPython/main/logo/IRLwPython.png" alt="IRLwPython Logo" width="200" height="200">
-  
+
+- **HeartPredict**  
+  - HeartPredict is a Python library designed to analyze and predict heart failure outcomes using patient data. .
+  - Repository: [HeartPredict](https://github.com/HeartPredict/HeartPredict)
+    
+    <img src="https://raw.githubusercontent.com/HeartPredict/HeartPredict/main/docs/logo/logo.png" alt="IRLwPython Logo" width="200" height="200">    
+
 ### Swarm Algorithms
 - **NinjaBees**
   - Simulation of a bee colony, where the bees try to discover all food sources in the simulated world.
@@ -58,6 +63,15 @@ Most of my personal projects are in Python.
   - Repository: [NinjaBees](https://github.com/HokageM/NinjaBees)
   
     <img src="https://raw.githubusercontent.com/HokageM/NinjaBees/main/logo/NinjaBees.jpg" alt="NinjaBees Logo" width="200" height="200">
+
+## Hobbies
+  
+### YouTube
+
+- **HokageBeats6**
+  - Since, I am always learning and coding with background music, I decided to try generating my own beats so I can 
+    listen to them while coding.
+  - Channel: [HokageBeats6](https://www.youtube.com/@HokageBeats6)
 
 ## Get in Touch
 I'm always open to collaboration, feedback, or just a friendly chat! 
