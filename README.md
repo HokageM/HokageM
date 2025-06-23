@@ -22,27 +22,6 @@ I deeply enjoy working on diverse projects that challenge me and help me grow as
 
     <img src="https://raw.githubusercontent.com/ciw-project-2023/coaler/main/logo/coaler.png" alt="CoAler Logo" width="200" height="200">
 
-### Command-line Tools
-- **ByakuganVisualizer**
-  - The ByakuganVisualizer is a Python tool for image comparison and highlighting differences, facilitating tasks such 
-  as testing and quality assurance, with an added color filter feature for correcting images for color-blind users.
-  - Repository: [ByakuganVisualizer](https://github.com/HokageM/ByakuganVisualizer)
-  
-    <img src="https://raw.githubusercontent.com/HokageM/ByakuganVisualizer/main/logo/logo.jpeg" alt="Byakugan Visualizer Logo" width="200" height="200">
-
-- **DamagedLoggingAnalyzer**
-  - This is my individual project for the module Research Software Engineering in SS24. The task was to analyze a dataset 
-  from [genesis.destatis](https://www-genesis.destatis.de/genesis/online?operation=abruftabelleBearbeiten&levelindex=1&levelid=1713202276894&auswahloperation=abruftabelleAuspraegungAuswaehlen&auswahlverzeichnis=ordnungsstruktur&auswahlziel=werteabruf&code=41261-0003&auswahltext=&werteabruf=starten) using Python and to find interesting aspects and potential questions that could be explored using this data.
-  - Repository: [DamagedLoggingAnalyzer](https://github.com/HokageM/DamagedLoggingAnalyzer)
-      
-    <img src="https://raw.githubusercontent.com/HokageM/DamagedLoggingAnalyzer/main/logo/logo.jpeg" alt="Damaged Logging Analyzer Logo" width="200" height="200">
-  
-- **Video2ASCII**
-  - This tool is created to convert MP4 videos into ASCII animations.
-  - Repository: [Video2ASCII](https://github.com/HokageM/Video2ASCII)
-  
-    <img src="https://raw.githubusercontent.com/HokageM/Video2ASCII/master/logo/Video2ASCII.png" alt="Video2ASCII Logo" width="200" height="200">
-
 ### Artificial Intelligence
 - **IRLwPython**
   - Implementation of Inverse Reinforcement Learning algorithms with Python solving the Mountaincar-v0 experiment.
@@ -63,6 +42,35 @@ I deeply enjoy working on diverse projects that challenge me and help me grow as
   - Repository: [NinjaBees](https://github.com/HokageM/NinjaBees)
   
     <img src="https://raw.githubusercontent.com/HokageM/NinjaBees/main/logo/NinjaBees.jpg" alt="NinjaBees Logo" width="200" height="200">
+
+### App Development
+- **L.O.F.I**
+  - L.O.F.I is a lofi-themed educational and productivity app that helps you stay focused.
+   Features: Pomodoro Timer, Statistics, Themes, Achievments and To-Do List.
+  - Repository: [L.O.F.I](https://github.com/SpaceEVA-Labs/L.O.F.I..git)
+  
+    <img src="https://raw.githubusercontent.com/SpaceEVA-Labs/L.O.F.I./main/docs/logo/logo.png" alt="Byakugan Visualizer Logo" width="200" height="200">
+
+### Command-line Tools
+- **ByakuganVisualizer**
+  - The ByakuganVisualizer is a Python tool for image comparison and highlighting differences, facilitating tasks such 
+  as testing and quality assurance, with an added color filter feature for correcting images for color-blind users.
+  - Repository: [ByakuganVisualizer](https://github.com/HokageM/ByakuganVisualizer)
+  
+    <img src="https://raw.githubusercontent.com/HokageM/ByakuganVisualizer/main/logo/logo.jpeg" alt="Byakugan Visualizer Logo" width="200" height="200">
+
+- **DamagedLoggingAnalyzer**
+  - This is my individual project for the module Research Software Engineering in SS24. The task was to analyze a dataset 
+  from [genesis.destatis](https://www-genesis.destatis.de/genesis/online?operation=abruftabelleBearbeiten&levelindex=1&levelid=1713202276894&auswahloperation=abruftabelleAuspraegungAuswaehlen&auswahlverzeichnis=ordnungsstruktur&auswahlziel=werteabruf&code=41261-0003&auswahltext=&werteabruf=starten) using Python and to find interesting aspects and potential questions that could be explored using this data.
+  - Repository: [DamagedLoggingAnalyzer](https://github.com/HokageM/DamagedLoggingAnalyzer)
+      
+    <img src="https://raw.githubusercontent.com/HokageM/DamagedLoggingAnalyzer/main/logo/logo.jpeg" alt="Damaged Logging Analyzer Logo" width="200" height="200">
+  
+- **Video2ASCII**
+  - This tool is created to convert MP4 videos into ASCII animations.
+  - Repository: [Video2ASCII](https://github.com/HokageM/Video2ASCII)
+  
+    <img src="https://raw.githubusercontent.com/HokageM/Video2ASCII/master/logo/Video2ASCII.png" alt="Video2ASCII Logo" width="200" height="200">
 
 ## Hobbies
   
