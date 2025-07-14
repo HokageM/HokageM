@@ -29,6 +29,12 @@ I deeply enjoy working on diverse projects that challenge me and help me grow as
     
     <img src="https://raw.githubusercontent.com/HokageM/IRLwPython/main/logo/IRLwPython.png" alt="IRLwPython Logo" width="200" height="200">
 
+- **MECHA-LUNG**
+  - Demo-Project: End-to-end lung cancer risk prediction system with secure doctor authentication, encrypted patient data, and decision-tree predictions.
+  - Repository: [MECHA-LUNG](https://github.com/HokageM/MECHA-LUNG)
+    
+    <img src="https://raw.githubusercontent.com/HokageM/MECHA-LUNG/main/docs/logo/logo.png" alt="MECHA-LUNG Logo" width="200" height="200">
+
 - **HeartPredict**  
   - HeartPredict is a Python library designed to analyze and predict heart failure outcomes using patient data. .
   - Repository: [HeartPredict](https://github.com/HeartPredict/HeartPredict)
