@@ -95,7 +95,13 @@ connect with me on [LinkedIn](https://www.linkedin.com/in/mike-trzaska-b576a6201
 ## License
 This portfolio is licensed under the [MIT License](LICENSE.txt).
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="github-snake" src="dist/github-snake.svg" />
-</picture>
+
+## 🐍 GitHub Contributions
+
+<div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HokageM/HokageM/blob/output/github-contribution-grid-snake.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github.com/HokageM/HokageM/blob/output/github-contribution-grid-snake.svg" />
+        <img alt="github-snake" src="https://github.com/HokageM/HokageM/blob/output/github-contribution-grid-snake.svg" />
+    </picture>
+</div>
