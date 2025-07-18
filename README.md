@@ -11,7 +11,7 @@ During my time at Eppendorf, I have had the opportunity to contribute to various
 primarily focusing on firmware development in C++ and tool development in Python. 
 I also completed my Bachelor's thesis at Eppendorf, where I developed a GUI testing tool for embedded systems.
 
-I deeply enjoy working on diverse projects that challenge me and help me grow as a developer.
+I deeply enjoy working on diverse projects that challenge me and help me grow as a developer. 
 
 ## Projects Portfolio
 
