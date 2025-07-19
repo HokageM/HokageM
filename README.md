@@ -19,6 +19,8 @@ I deeply enjoy working on diverse projects that challenge me and help me grow as
 4. [App Development](#app-development)
 5. [Command-line Tools](#command-line-tools)
 
+Jump to [Tech Stack](#️-tech-stack)
+
 ## Data Science / AI
 
 ### IRLwPython
