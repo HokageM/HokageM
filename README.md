@@ -144,7 +144,8 @@ This tool is created to convert MP4 videos into ASCII animations.
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Imbalanced-learn](https://img.shields.io/badge/-Imbalanced--learn-DA5B0B?style=for-the-badge&logo=imbalanced-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
+![OpenAI](https://img.shields.io/badge/OpenAI-%2300A37F.svg?style=for-the-badge&logo=openai)
+![LangChain](https://img.shields.io/badge/LangChain-%2300A37F.svg?style=for-the-badge&logo=LangChain&logoColor=white)
 
 ### Bio / Cheminformatics
 ![RDKit](https://img.shields.io/badge/-RDKit-000000?style=for-the-badge&logo=rdkit&logoColor=white)
