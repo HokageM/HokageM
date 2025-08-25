@@ -50,6 +50,16 @@ HeartPredict is a Python library designed to analyze and predict heart failure o
 
 **Repository:** [HeartPredict](https://github.com/HeartPredict/HeartPredict)
 
+### Demo MCP (Client/Server) with Local LLM
+This is a demo project showing how to create an MCP client with a local LLM in both Python and TypeScript. 
+It also demonstrates how to configure an MCP server in Python (with FastAPI) and in TypeScript.
+
+**Tech:** `#Python` `#TypeScript` `#Ollama` `#FastAPI`
+
+**Topic:** `#MCP` `#MCP-Client` `#MCP-Server` `#LLM`
+
+**Repository:** [DemoMCPwLocalLLM](https://github.com/HokageM/DemoMCPwLocalLLM)
+
 ### NinjaBees
 Simulation of a bee colony, where the bees try to discover all food sources in the simulated world.
 The Bee Colony Optimization algorithm is used as core algorithm.
@@ -143,8 +153,10 @@ This tool is created to convert MP4 videos into ASCII animations.
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Imbalanced-learn](https://img.shields.io/badge/-Imbalanced--learn-DA5B0B?style=for-the-badge&logo=imbalanced-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-%2300A37F.svg?style=for-the-badge&logo=openai)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-%2300A37F.svg?style=for-the-badge&logo=LangChain&logoColor=white)
 
 ### Bio / Cheminformatics
