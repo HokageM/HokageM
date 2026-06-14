@@ -1,15 +1,15 @@
 # Welcome to Mike Trzaska's GitHub Portfolio!
 
 ## About Me
-Hey there! I'm Mike Trzaska (HokageM), a passionate learner and explorer in the world of technology. 
-I earned my Bachelor of Science degree at the Technical University of Hamburg Harburg in Computer Science and Electrical
-Engineering. Currently, I am pursuing my Master's degree in Bioinformatics at the University of Hamburg.
+Hey there! I'm Mike Trzaska (HokageM).
 
-Since October 2020, I have been working as a Working Student (Software Engineer) at Eppendorf Liquid Handling GmbH. 
-In parallel, since April 2025, I have also been working on the topic "Protocol Parsing: A Comparison of Parameterization Techniques for Laboratory Protocols with LLMs" for my Master's thesis  at Eppendorf SE.
-During my time at Eppendorf, I had the opportunity to contribute to various projects, including firmware development (C++), tool development (Python), and AI development (Python).
+I have a background in Computer Science, Electrical Engineering, and Bioinformatics. I earned my Bachelor of Science in Computer Science and Engineering from the Technical University of Hamburg and my Master of Science in Bioinformatics from the University of Hamburg.
 
-I deeply enjoy working on diverse projects that challenge me and help me grow as a developer. 
+Over the past few years, I have worked on different topics across software engineering, embedded systems, machine learning, and AI. At Eppendorf, I contributed to firmware development in C++, Python-based tooling, automated GUI testing, CI/CD workflows, and research around LLM-based laboratory protocol parsing.
+
+For my master’s thesis, I worked on “Protocol Parsing: A Comparison of Parameterization Techniques for Laboratory Protocols with LLMs”, where I explored how large language models can be used to extract and structure information from laboratory protocols. This included GraphRAG based on a domain-specific ontology.
+
+Today, my main interests are machine learning, deep learning, MLOps, LLM agents, and building AI systems that can be used in real-world applications. I deeply enjoy cross-functional topics where software engineering, machine learning, and practical problem solving come together.
 
 ## Public Projects Portfolio
 
@@ -141,53 +141,72 @@ This tool is created to convert MP4 videos into ASCII animations.
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Data Science & Machine Learning
+### AI & Machine Learning
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Imbalanced-learn](https://img.shields.io/badge/-Imbalanced--learn-DA5B0B?style=for-the-badge&logoColor=white)
+
+### GenAI & LLM Orchestration
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Langfuse](https://img.shields.io/badge/-Langfuse-000000?style=for-the-badge&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/-AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Agent Platform](https://img.shields.io/badge/-Google%20Agent%20Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/-Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Boto3](https://img.shields.io/badge/-Boto3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### Data Science & Analytics
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Imbalanced-learn](https://img.shields.io/badge/-Imbalanced--learn-DA5B0B?style=for-the-badge&logo=imbalanced-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-%2300A37F.svg?style=for-the-badge&logo=openai)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-%2300A37F.svg?style=for-the-badge&logo=LangChain&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logoColor=white)
+![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### MLOps & DevOps
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Bio / Cheminformatics
-![RDKit](https://img.shields.io/badge/-RDKit-000000?style=for-the-badge&logo=rdkit&logoColor=white)
+![RDKit](https://img.shields.io/badge/-RDKit-000000?style=for-the-badge&logoColor=white)
+
+### Cloud
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### Build, Test & Package
+![CMake](https://img.shields.io/badge/-CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Conan](https://img.shields.io/badge/-Conan-6699CB?style=for-the-badge&logo=conan&logoColor=white)
+![UV](https://img.shields.io/badge/-UV-DE5FE9?style=for-the-badge&logo=uv&logoColor=white)
+![pytest](https://img.shields.io/badge/-pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Catch2](https://img.shields.io/badge/-Catch2-000000?style=for-the-badge&logoColor=white)
 
 ### Dev Tools & IDE
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### DevOps & Infrastructure
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-
-### Build, Test & Package
-![CMake](https://img.shields.io/badge/-CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-![Conan](https://img.shields.io/badge/-Conan-FF6F00?style=for-the-badge&logo=conan&logoColor=white)
-![pytest](https://img.shields.io/badge/-pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Catch2](https://img.shields.io/badge/-Catch2-000000?style=for-the-badge&logo=catch2&logoColor=white)
 
 ### Web & Mobile Frameworks
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST](https://img.shields.io/badge/-REST-02569B?style=for-the-badge&logoColor=white)
 
 ### Embedded Systems
 ![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-000000?style=for-the-badge&logo=freertos&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
 ## Hobbies
   
